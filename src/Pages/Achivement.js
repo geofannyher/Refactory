@@ -2,13 +2,13 @@ import React from 'react'
 
 const Achivement = () => {
   return (
-    <section class="bg-white ">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl">
-      <h1 class="mx-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-orange-300">
+    <section className="bg-white ">
+    <div className="py-8 px-4 mx-auto max-w-screen-xl">
+      <h1 className="mx-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-orange-300">
         Ini adalah Halaman Achivement
       </h1>
     </div>
-    <div class="py-8 px-4 mx-auto max-w-screen-xl">
+    <div className="py-8 px-4 mx-auto max-w-screen-xl">
       Lorem Ipsum is simply dummy text of the printing and typesetting
       industry. Lorem Ipsum has been the industry's standard dummy text ever
       since the 1500s, when an unknown printer took a galley of type and
